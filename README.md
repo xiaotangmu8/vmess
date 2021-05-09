@@ -1,2 +1,0 @@
-# vmess
-V2ray
